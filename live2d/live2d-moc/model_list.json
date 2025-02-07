@@ -1,0 +1,12 @@
+{
+    "models": [
+        [
+            "HyperdimensionNeptunia/nepnep",
+            "HyperdimensionNeptunia/nepmaid",
+	        "HyperdimensionNeptunia/nepswim"
+        ]
+    ],
+    "messages": [
+        "Nep! Nep! 超次元游戏：海王星 系列"
+    ]
+}
